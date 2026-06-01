@@ -5,7 +5,7 @@ This repository provides code to reproduce the first systematic study of whether
 Overall, our findings show that even frontier LLMs struggle to consistently apply their own linguistic confidence framework, rounding out prior work on faithful calibration of LLMs. This underscores a fundamental alignment gap and the need to ground LLMs’ epistemic marker use in more stable and meaningful internal confidence representations.
 
 <p align="center">
-    <a href="" style="display:inline-block;background-color:#2196F3;color:white;padding:10px 20px;text-align:center;text-decoration:none;font-size:20px;border-radius:5px;">📄 <b>Paper</b></a>
+    <a href="https://arxiv.org/pdf/2605.28778" style="display:inline-block;background-color:#2196F3;color:white;padding:10px 20px;text-align:center;text-decoration:none;font-size:20px;border-radius:5px;">📄 <b>Paper</b></a>
 </p>
 
 <p align="center">
