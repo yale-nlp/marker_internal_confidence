@@ -143,5 +143,11 @@ python ./src/scripts/plot_kde.py  --csv_path=./_results/gpt_5_mini__marker_thres
 
 If you find the content of this project helpful, please cite our paper as follows:
 ```bash
-Citation coming soon!
+@article{liu2026can,
+    title={Can LLMs Use Linguistic Uncertainty Markers to Reliably Reflect Intrinsic Confidence?},
+    author={Liu, Gabrielle Kaili-May and Cohan, Arman},
+    journal={arXiv preprint arXiv:2605.28778},
+    year={2026},
+    url={https://arxiv.org/abs/2605.28778}
+}
 ```
